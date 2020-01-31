@@ -8,6 +8,7 @@ end
 
 def using_pop(array)
   array.pop 
+  array
 end 
 
 def using_shift(array)
